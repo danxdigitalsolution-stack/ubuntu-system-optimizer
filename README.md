@@ -2,6 +2,13 @@
 
 A dark-themed PySide6 GUI for common Ubuntu/Debian system maintenance tasks — package cache cleanup, dependency fixes, updates, and application removal — wrapped around `apt`/`dpkg` with a live, scrollable process log. Root-requiring commands are run through `pkexec`, so you get Ubuntu's native graphical authentication prompt instead of typing your password into a terminal.
 
+---
+
+<img width="905" height="636" alt="Screenshot 2026-08-27 202749" src="https://github.com/user-attachments/assets/da310dd3-270c-46c7-846a-b105369b9f88" />
+
+---
+
+
 ## Features
 
 ### 🧹 Dashboard & Cleanup
